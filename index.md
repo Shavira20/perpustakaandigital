@@ -12,6 +12,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 7. [Petani Cilik](ebook/PetaniCilik.pdf) - Aryansh (2021)
 8. [Tarik Talinya](ebook/TarikTalinya.pdf) - Humayra (2024)
 9. [Bulan dan Topi](ebook/BulandanTopi.pdf) - Angie (2024)
-
+10. [Petualangan Menakjubkan](ebook/PetualanganMenakjubkan.pdf) - Sopheap (2024)
+11. [Rangkuman Materi UGC](ebook/RangkumanMateriUGC.pdf) - Shavira (2026)
 ---
 Powered by GitHub Pages
