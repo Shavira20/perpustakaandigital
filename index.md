@@ -11,6 +11,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 6. [Nyanyian Hujan](ebook/NyanyianHujan.pdf) - Mukesh (2024)
 7. [Petani Cilik](ebook/PetaniCilik.pdf) - Aryansh (2021)
 8. [Tarik Talinya](ebook/TarikTalinya.pdf) - Humayra (2024)
+9. [Bulan dan Topi](ebook/BulandanTopi.pdf) - Angie (2024)
 
 ---
 Powered by GitHub Pages
